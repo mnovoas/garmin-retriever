@@ -1,0 +1,19 @@
+.env
+connect-personal-api-key
+.venv/
+__pycache__/
+*.pyc
+data/
+.DS_Store
+*.egg-info/
+*.egg
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.ipynb_checkpoints/
+
+# internal planning notes, not part of the published project
+docs/plan.md
