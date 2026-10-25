@@ -1,6 +1,6 @@
 # garmin-retriever
 
-Retrieve **your own** Garmin Connect data via the [Garmin Connect **Personal API**](https://developer.garmin.com/gc-developer-program/personal/) and export it to CSV/JSON files or load it into a local SQLite database — including intraday time series.
+Simple script to retrieve **your own** Garmin Connect data via the [Garmin Connect **Personal API**](https://developer.garmin.com/gc-developer-program/personal/) and export it to CSV/JSON files or load it into a local SQLite database — including intraday time series.
 
 > Unofficial. Not affiliated with or endorsed by Garmin. It only accesses the data of the account whose Personal API key you provide, and all endpoints are read-only.
 
