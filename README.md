@@ -15,7 +15,6 @@ Simple script to retrieve **your own** Garmin Connect data via the [Garmin Conne
 ## Requirements
 
 - Python **3.9+** built against a modern OpenSSL.
-  - On macOS, the system `python3` (3.9, LibreSSL) **fails the TLS handshake** with Garmin. Use Homebrew Python instead: `brew install python` and create the venv with `/opt/homebrew/bin/python3`.
 
 ## Install
 
